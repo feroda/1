@@ -1,6 +1,4 @@
-# 1 
-
-1 miliardo per la libertà.
+# 1 miliardo per la libertà.
 
 
 Propongo un progetto OPEN che intende gestire la somma di 1 miliardo di euro per la libertà. Come salvadanaio ho avuto l’autorizzazione da parte del consiglio direttivo del gruppo no-profit di Software Libero PDP di Fabriano https://pdp.linux.it . 
