@@ -64,9 +64,15 @@ Posso però dirvi come ci sono riuscito in altri progetti ;-) ...e anche come sa
 
 ![Anche la tua faccia](assets/images/IoAdAltaRisoluzinoeSoloTesta.png "Anche la tua faccia!")
 
-![La creazione 2.0](assets/images/LaCreazioneDiAdamoConLaTastieraDalFOSDEM.jpg "La creazione 2.0")
+*Io ad alta risoluzione solo testa* - Bologna, nel 2009 circa... qualche anno fa!
+
+![La creazione di Adamo 2.0](assets/images/LaCreazioneDiAdamoConLaTastieraDalFOSDEM.jpg "La creazione di Adamo 2.0")
+
+*La creazione di Adamo 2.0*, scansione di una cartolina acquistata al [FOSDEM - Free and Open Source Developers' European Meeting](https://fosdem.org) di Bruxelles
 
 ![Creatività](assets/images/Osho.jpg "Creatività by Osho, tratto da *diecinumeriperconosceredio* - Verdirosi")
+
+Citazione di Osho sulla creatività, scansione del libro *diecinumeriperconosceredio* di [Umberto Verdirosi](http://www.umbertoverdirosi.it/)
 
 ## Come contribuire
 
