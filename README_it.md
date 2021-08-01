@@ -46,8 +46,14 @@ Diamo un calcio all'impossibile. Baden Powell ha fatto molto, tanti altri hanno 
 Fabriano, 1 agosto 2021
 
 Luca Ferroni, 
-... una faccia che buca lo schermo dei vostri smartphone. E non posso dirvi in che modo, ma ci riuscirà. Punto. E virgola.
+... una faccia che buca lo schermo. E non posso dirvi in che modo, ma ci riuscirà. Punto. E virgola.
 
-Posso però dirvi come ci sono riuscito in altri progetti ;-)
+Posso però dirvi come ci sono riuscito in altri progetti ;-) ...e anche come sarà il finale ;-)
 
+<p style="text-align: center;">
+![Anche la tua faccia](assets/images/IoAdAltaRisoluzinoeSoloTesta.png "Anche la tua faccia!")
+</p>
 
+![La creazione 2.0](assets/images/LaCreazioneDiAdamoConLaTastieraDalFOSDEM.jpg "La creazione 2.0")
+
+![Creatività](assets/images/Osho.jpg "Creatività by Osho, tratto da *diecinumeriperconosceredio* - Verdirosi")
