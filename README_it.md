@@ -2,9 +2,19 @@
 
 Propongo un progetto OPEN che intende gestire la somma di 1 miliardo di euro per la libertà. Come salvadanaio di riferimento ho avuto la disponibilità da parte del consiglio direttivo del gruppo no-profit di Software Libero PDP di Fabriano https://pdp.linux.it . Ringrazio per la fiducia.
 
+## Gli ambiti di iniezione del denaro (*money injection*)
+
+TODO: li pubblicherò presto.
+
+## Descrizione
+
 Il mio interesse non è tanto che una singola realtà ottenga 1 miliardo di euro, sarebbe buono e comodo, efficiente ed efficace, ma non cambia nella sostanza se effetivamente io, come autore di questo progetto, avessi la possibilità di far circolare una abbondante somma di denaro appartenente anche ad altre realtà. Chiaramente sarei aiutato da uno staff di fiducia di persone fantastiche che mi hanno supportato e sopportato in questi anni e altre che ne incontrerò, ma ora mi rendo conto che non posso impegnarle in questa altra idea che è solo mia, finché non si concretizzerà ed espanderà luce.
 
-Questi fondi verranno distribuiti per dare sostegno ad ambiti e persone che già oggi operano al meglio delle proprie forze per realizzare un futuro compatibile a quello definito dallo [Statuto dell’associazione](assets/doc/PDP_Statuto_2003.pdf). In questo modo intendo ridurre asintoticamente a zero le burocrazie, facendo in modo che le persone che lavorano in questi ambiti siano facilitati e alleggeriti, perché oggi rappresentano il presente e il futuro della società interpretandone i nuovi valori di fratellanza, rispetto e creatività. 
+Questi fondi verranno distribuiti per dare sostegno ad ambiti e persone che già oggi operano al meglio delle proprie forze per realizzare un futuro compatibile a quello definito nell' [art. 3 dello Statuto dell’associazione](assets/doc/PDP_Statuto_2003.pdf). 
+
+![Art. 3 dello Statuto del PDP](assets/images/PDP_Statuto_art_3.png "Art. 3 dello Statuto del PDP Free Software User Group")
+
+In questo modo intendo ridurre asintoticamente a zero le burocrazie, facendo in modo che le persone che lavorano in questi ambiti siano facilitati e alleggeriti, perché oggi rappresentano il presente e il futuro della società interpretandone i nuovi valori di fratellanza, rispetto e creatività. 
 
 Il progetto è rivolto a tutti, ma chiaramente gli output, i *deliverable*, sono più per i giovani, come dovrebbe essere ogni progetto furbo e realista, poiché sono loro a costituire il presente e il futuro di questa società. Ma i soldi li chiedo più che altro "ai vecchi" che so essere anche saggi ;-)
 
