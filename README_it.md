@@ -39,9 +39,11 @@ Se io stesso scoprirò che questo progetto è una barriera, farò dietro front, 
 
 Perché in 18 anni il mondo, da che abbiamo fondato il PDP Free Software User Group, si è spostato sui fronti su cui è stato impostato, quindi è ora di accettare completamente la responsabilità di questo presente e mostrarne le potenzialità che forse nessuno ha compreso fino in fondo. Non posso saperlo. Non possiamo. Proviamoci.
 
-Sicuramente non si concretizzerà esattamente come io lo immagino ora, ma anche solo se avrò fatto l'1% di quanto scriverò qui lo avrò fatto perché lo ritenevo giusto, e come si suol dire nei migliori film, per i nostri figli, e i figli dei nostri figli.
+Sicuramente non si concretizzerà esattamente come io lo immagino ora, ma anche solo se avrò fatto lo 0,01% di quanto scriverò qui lo avrò fatto perché lo ritenevo giusto, e come si suol dire nei migliori film, per i nostri figli, e i figli dei nostri figli.
 
-Il progetto è una prosecuzione del mio percorso, e un maggior fiato alle attività da me iniziate, e a volte non finite, ma mai abbandonate. Nel cuore, nella testa, nelle gambe. Sono [Luca Ferroni](https://www.lucaferroni.it) e ho già fatto tanti danni, tante cose appese che possono continuare a vivere prendendo una forma sempre più bella se le persone che ne sono parte le ritengono utili e degne. O di essere chiuse. In ogni caso come belle storie meritano un finale.
+Sinceramente in cuor mio credo che questo 0,01% l'ho già fatto perché il progetto è una prosecuzione del mio percorso, una sua evoluzione, maggior fiato alle attività da me iniziate, e a volte non finite, ma mai abbandonate. Nel cuore, nella testa, nelle gambe. 
+
+Sono [Luca Ferroni](https://www.lucaferroni.it) e ho già fatto tanti danni, tante cose appese che possono continuare a vivere prendendo una forma sempre più bella se le persone che ne sono parte le ritengono utili e degne. O di essere chiuse. In ogni caso come belle storie meritano un finale.
 
 Il progetto è rilasciato con licenza di Software Libero GNU AGPLv3 per opportunità del portale [GitHub.com](https://github.com) su cui è al momento pubblicato. Si tratta di un progetto per lo più documentale pertanto si aggiunge una ulteriore licenza Creative Commons Attribution 4.0 internazionale: https://creativecommons.org/licenses/by/4.0/deed.it 
 
@@ -60,9 +62,7 @@ Luca Ferroni,
 
 Posso però dirvi come ci sono riuscito in altri progetti ;-) ...e anche come sarà il finale ;-)
 
-<p style="text-align: center;">
 ![Anche la tua faccia](assets/images/IoAdAltaRisoluzinoeSoloTesta.png "Anche la tua faccia!")
-</p>
 
 ![La creazione 2.0](assets/images/LaCreazioneDiAdamoConLaTastieraDalFOSDEM.jpg "La creazione 2.0")
 
