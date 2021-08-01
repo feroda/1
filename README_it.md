@@ -67,3 +67,9 @@ Posso però dirvi come ci sono riuscito in altri progetti ;-) ...e anche come sa
 ![La creazione 2.0](assets/images/LaCreazioneDiAdamoConLaTastieraDalFOSDEM.jpg "La creazione 2.0")
 
 ![Creatività](assets/images/Osho.jpg "Creatività by Osho, tratto da *diecinumeriperconosceredio* - Verdirosi")
+
+## Come contribuire
+
+Se sei arrivato/a a leggere fin qui probabilmente il progetto ti ha suscitato un certo interesse e potreste decidere di voler contribuire fin da ora.
+
+Segui le brevi indicazioni in [CONTRIBUTING_it.md](CONTRIBUTING_it.md) per capire cosa puoi fare oggi.
