@@ -5,7 +5,10 @@
 This project is now available in [Italian language](README_it.md).
 
 
-### Credit
+### Credits
+
+...too many people to credit... in the meanwhile: "I thank you all, and above all my family" 🙏🏻🌈
+
 
 Social preview of this project is a tribute to Stan Lee, meme courtesy of ImgFlip - https://imgflip.com/i/2nplqe
 
