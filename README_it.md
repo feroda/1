@@ -4,7 +4,48 @@ Propongo un progetto OPEN che intende gestire la somma di 1 miliardo di euro per
 
 ## Gli ambiti di iniezione del denaro (*money injection*)
 
-TODO: li pubblicherò presto.
+Questo progetto funziona nella logica: "distribuisco denaro a realtà di mia conoscenza diretta in cui so che ci sono le competenze, la determinazione e le pratiche giuste, oltre alla logica open che prevede di mettersi in discussione in modo appunto aperto ogni qualvolta possibile, poiché conveniente".
+
+Tali referenti e realtà verranno pubblicati in questo spazio, ma non ora perché è necessaria la loro autorizzazione esplicita. Non so infatti se gradiscono questa fantasiosa o meno idea progettuale e se gradiscono esserne collegati.
+
+Nel frattempo scrivo di seguito gli ambiti di distribuzione del denaro, per ognuno di essi ho delle persone e delle realtà di riferimento cui viene assegnato il budget in logica di abbondanza. Loro lo sapranno gestire per lo scopo e anche per rimuovere propri ostacoli e sprechi interni che li rallentano. [Muda](https://it.wikipedia.org/wiki/Muda_(termine_giapponese))
+
+Gli ambiti di attuazione quinquennale e le rispettive cifre che ho ipotizzato in logica di abbondanza sono:
+
+* **Infrastruttura a banda ultralarga e servizi per l'educazione in Italia**. 100,00 milioni
+* **Educazione**: portare avanti le migliori pratiche in Italia, oltre a sostenere e attivare percorsi in istituzioni educative preesistenti strategiche per il progetto. 150,00 milioni
+* **Centro di Rigenerazione Territoriale cittadino**. 80,00 milioni
+  * La struttura prevede diversi piani:
+    - **accettazione, accoglienza**, videowall con il monitoraggio della felicità cittadina, nursery;
+    - **assistenza** di primo livello all'utilizzo della tecnologia;
+    - **buona alimentazione** e sua cultura;
+    - condivisione e sperimentazione di **approcci pedagogici e pratiche educative**;
+    - meditazione, discussione, **confronto libero**, ospitalità alle associazioni del territorio, co-manutenzione;
+    - **sviluppo software**;
+    - **FA-VOLA**: questo è il piano di chi immagina nuovi sogni da realizzare.
+  * Sono previsti un **magazzino**, una zona di **carico/scarico merci** e un **giardino** ([delle delizie](https://archief.ntr.nl/tuinderlusten/en.html#)... o anche no ;-))
+* **Performers**: implementazione del [progetto LOLA del GARR Consortium](https://www.garr.it/it/comunita/musica-e-arte/lola) in ogni città italiana per supportare concerti e spettacoli professionali remoti, o in presenza quando possibile. 50,00 milioni;
+* **IoT for Happiness**: un sistema di monitoraggio per la felicità. Autoregolato, spontaneo e facoltativo, ma conveniente e coinvolgente. 5,00 milioni;
+* **Acquisizioni**: acquisire aziende e tecnologie per liberarle. 70,00 milioni;
+* **Families care**: un budget per consentire alle famiglie una tranquillità economica in modo che i genitori possano dedicare più tempo per conoscere i propri figli. Accompagnarli in attività costruttive e partecipare. Anche formarsi per questo obiettivo ogni qualvolta possibile. 100,00 milioni;
+* **Alimentazione responsabile**, budget per la facilitazione di Gruppi di Acquisto Solidale (GAS) e Piccola Distribuzione Organizzata (PDO);
+* **Refactoring Society**, progettazione di una riorganizzazione della società partendo dal presente, non dal futuro. Definire flussi per la sburocratizzazione e scrivere [RFC](https://it.wikipedia.org/wiki/Request_for_Comments) per attuare una *libertà delicata* che tuteli la libertà di ogni individuo fin dove inizia quella degli altri. 5,00 milioni;
+* **Play**: sostegno di luoghi per la sperimentazione di una nuova società. 50,00 milioni;
+* **Donazioni ad associazioni e progetti amici** che sono state attive a favore della libertà in questi anni. 50,00 milioni;
+* **IoT per il clima**: non abbiamo dati aperti, *open data*, relativi al clima. Sosteniamo lo sviluppo di stazioni climatiche a basso costo da proporre almeno agli 8.000 comuni d'Italia. 5,00 milioni;
+* **Confronto su temi scottanti**. Ci sono temi che generano non solo dibattito, ma anche impegno, ricerche e tempo dedicato da tante persone nel mondo. Sia quelli che condividono la visione più diffusa, sia quelli che non la condividono. Si intende restringere il dibattito in tavoli di confronto tra professionisti ed esperti dell'una e dell'altra parte in modo da facilitare il confronto e il dialogo. In questo modo si isoleranno una serie di punti in accordo e una serie di punti in disaccordo e ci si potrà aiutare intanto su quelli in accordo e valutare nel percorso gli ulteriori sviluppi. Dando priorità ai temi che hanno maggior impatto nel quotidiano, il 5G su tutti direi come esempio. 5,00 milioni; 
+* **Retribuzione a vita per "world class" benevolent people**: ci sono varie persone che hanno dimostrato di agire nell'interesse dell'umanità ogni giorno, l'idea è di costituire un fondo per il loro vitalizio e lasciare che proseguano nella loro attività, loro energia. 10,00 milioni;
+* **Retribuzione dello staff di questo progetto**. In logica open, si aggregano di solito molte più persone costruttive di quante se ne possano immaginare all'inizio del progetto. È bene che le persone che rimuovono i problemi possano esprimere la loro giornata lavorativa con questa creatività e pragmatismo. 10,00 milioni;
+* **Pianoforte grandcoda**. ci vuole un po' di stile... e arte! 120.000,00 euro
+* **Una manciata di auto elettriche, biciclette e monopattini elettrici**. 500,000 euro... certo... manca il Jet... però... sai mai che qualcuno lo possa dare in usufrutto quando serve ;-)
+
+### Nota sulle cifre e loro distribuzione
+
+A me sinceramente sembra che le cifre associate siano più che abbondanti, ma sempre a dire il vero non ho mai gestito un progetto di questa portata e preferisco ragionare per ordini di grandezza lasciando poi alle persone competenti di ragguagliarmi sulle opportunità di ampliamento o restrizione. Il progetto è software, quindi non è mai tardi per aggiustare dei caratteri nel documento ;-)
+
+Come vedrete, il MILIARDO è un'idea, un faro. In realtà ce lo possiamo dare come obiettivo, ma con poco denaro abbiamo già fatto molto in questi anni. Il punto è: quanto vogliamo #accelerareilbello ? ;-)
+
+Per le somme donate all'associazione [PDP Free Software User Group di Fabriano](https://pdp.linux.it) siamo facilitati perché sono esentasse e quindi possiamo utilizzare l'intero budget posto che rispettiamo le finalità statutarie.
 
 ## Descrizione
 
