@@ -69,3 +69,31 @@ Tra gli accostamenti forse il più forzato può sembrare quello tra SICUREZZA e 
 ## I livelli del Centro di Rigenerazione Territoriale
 
 *Nota*: preferisco chiamarli "livelli" invece che "piani" per associare al progetto anche lo spirito di *gamification* connaturato.
+
+## Come muoversi tra i livelli? Il modello Bell-LaPadula
+
+Per muoversi tra i livelli ho pensato che potremmo ispirarci al [modello Bell-LaPadula](https://it.wikipedia.org/wiki/Modello_Bell-LaPadula) a me arrivato tramite il corso di Sicurezza Informatica all'Università di Bologna sotto la responsabilità del [luminare prof. Ozalp Babaoglu](https://it.wikipedia.org/wiki/%C3%96zalp_Babao%C4%9Flu). 
+
+L'aspetto che mi è venuto in mente nel modello Bell-LaPadula riguarda le tre prorietà di sicurezza (questa volta informatica):
+
+* un soggetto può accedere ad un oggetto solo se il suo livello di sicurezza è maggiore od uguale a quello dell'oggetto. Semplificando: **no read up** (= "Simple Security Property" o "SS-property");
+* un soggetto può accedere ad un oggetto solo per operazioni di scrittura se ha un livello inferiore o uguale rispetto all'oggetto. Quindi **no write-down** (= "Star-Property", "*-property" o "S-property");
+* è possibile stabilire una corrispondenza (matrice) di accesso discrezionale in modo da assegnare delle **eccezioni nell'autorizzazione** a soggetti specifici (= "Discretionary Security Property" o "DS-property").
+
+Riporto da Wikipedia l'estratto successivo all'elenco delle proprietà: 
+
+"Queste regole insieme servono ad evitare che le informazioni possano propagarsi senza controllo da parte del proprietario, e sono lo strumento per impedire che il sistema possa essere espugnato da un trojan horse (Cavallo di Troia: virus nascosto in un programma che penetra tramite il programma in un computer).
+
+Il trasferimento di informazioni da un paragrafo high-sensitivity a un documento lower-sensitivity può avvenire nel modello Bell-LaPadula per mezzo del concetto di soggetti di fiducia. Subjects di fiducia non sono limitati dalla proprietà.
+
+Un Subject di fiducia deve essere mostrato e testato affinché possa essere dichiarato affidabile in merito alla politica di sicurezza."
+
+### Ma mettendo queste regole non rischiamo di mettere burocrazia e quindi contravvenire allo scopo di semplificazione?
+
+No. Sia perché sono regole che possiamo mettere in discussione e creare occasioni di evoluzione se lo riteniamo opportuno (tramite le [issues di progetto](https://github.com/feroda/1/issues) intanto). Sono regole *software*.
+
+Sia perché essendo appunto regole *software*, sono funzionali ad efficenza, efficacia e, come vedremo bellezza. Per quanto scopriremo che l'armonia della bellezza è in costante evoluzione e quindi l'unica regola che segue è questo costante cambiare, difficilmente quindi "regolabile".
+
+Se parliamo di Amore invece a mio avviso ha delle caratteristiche, ma proprio ha necessità di esprimersi al di fuori delle regole, ma questo è un altro paragrafo e poi... visto che non sono titolato a parlarne e probabilmente ininfluente a livello di progettazione è inefficiente e inefficace approfondire ora, di conseguenza non bello e non #spicy ;-).
+
+Tornando a queste regole del modello Bell-LaPadula, hanno funzionato in vari contesti quindi per ora vorrei testare se possono funzionare per gestire l'accesso e la distribuzione dei messaggi all'interno dei livelli del CRT.
