@@ -53,15 +53,19 @@ Ogni livello ha una propria responsabilità.
 
 ### Corrispondenza
 
-| Livello | Maslow (8 liv.)  | ISO/OSI | CRT |
-| ------- | ---------------- | ----------- | ----------- |
-| 1       | FISIOLOGIA       | FISICO
-| 2       | SICUREZZA        | COLLEGAMENTO
-| 3       | APPARTENENZA     | RETE
-| 4       | STIMA            | TRASPORTO
-| 5       | CONOSCENZA       | SESSIONE
-| 6       | ESTETICA         | PRESENTAZIONE
-| 7       | AUTOREALIZZAZIONE| APPLICAZIONE
-| 8       | TRASCENDENZA     | APPLICAZIONE
+| LIVELLO | MASLOW (8 LIV.)  | PILA ISO/OSI  | CENTRO DI RIGENERAZIONE TERRITORIALE                     |
+| ------- | ---------------- | ------------- | -------------------------------------------------------- |
+| 1       | FISIOLOGIA       | FISICO        | ACCOGLIENZA                                              |
+| 2       | SICUREZZA        | COLLEGAMENTO  | ASSISTENZA PROBLEMI QUOTIDIANI                           |
+| 3       | APPARTENENZA     | RETE          | BUONA ALIMENTAZIONE E PICCOLA DISTRIBUZIONE ORGANIZZATA  |
+| 4       | STIMA            | TRASPORTO     | PRATICHE EDUCATIVE, APPROCCI PEDAGOGICI, SPERIMENTAZIONE |
+| 5       | CONOSCENZA       | SESSIONE      | CONFRONTO LIBERO E ASSOCIAZIONI                          |
+| 6       | ESTETICA         | PRESENTAZIONE | ARTE, PERFORMERS, RELIGIONE E FILOSOFIA                  |
+| 7       | AUTOREALIZZAZIONE| APPLICAZIONE  | SVILUPPO SOFTWARE E ORCHESTRAZIONE TERRITORIALE          |
+| 8       | TRASCENDENZA     | APPLICAZIONE  | FA-VOLÀ: just my imagination                             |
 
-Ora, tra gli accostamenti forse il più forzato può sembrare quello tra SICUREZZA e COLLEGAMENTO (o DATA-LINK), ma ricordiamo che il SICUREZZA come bisogno non ha nulla a che fare con la SICUREZZA informatica. La **sicurezza come bisogno** è intesa come sicurezza fisica, di salute, di occupazione, morale, di proprietà. Per questo secondo me può trovare corrispondenza con il livello 2 che si occupa del collegamento tra 2 punti di una stessa rete. Mi fermo qui. Se avete osservazioni costruttive e argomentate potete porle tramite le [issues di progetto](https://github.com/feroda/1/issues).
+Tra gli accostamenti forse il più forzato può sembrare quello tra SICUREZZA e COLLEGAMENTO (o DATA-LINK), ma rilevo che la SICUREZZA come bisogno non ha nulla a che fare con la SICUREZZA informatica. La sicurezza come bisogno è intesa come sicurezza fisica, di salute, di occupazione, morale, di proprietà. Per questo secondo me può trovare corrispondenza con il livello 2 che si occupa del collegamento tra 2 punti di una stessa rete. Mi fermo qui. Se avete osservazioni costruttive e argomentate potete porle tramite le [issues di progetto](https://github.com/feroda/1/issues).
+
+## I livelli del Centro di Rigenerazione Territoriale
+
+*Nota*: preferisco chiamarli "livelli" invece che "piani" per associare al progetto anche lo spirito di *gamification* connaturato.
