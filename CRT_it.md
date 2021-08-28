@@ -39,6 +39,8 @@ A me piace fare associazioni inconsuete, diverse, #spicy e non banali (#spicynon
 
 Questo è il più diffuso modello al mondo su cui sono strutturate le reti.
 
+![La pila ISO/OSI con commenti in italiano](assets/images/Pila-osi.svg.png "La pila ISO/OSI con commenti in italiano")
+
 Ogni livello ha una propria responsabilità. 
 
 * La rete che noi chiamiamo **Internet** è fino al livello 3;
@@ -47,6 +49,19 @@ Ogni livello ha una propria responsabilità.
 * All'interno delle mura domestiche siamo al livello 2, ma questo è un dettaglio... :-)
 * Quando vedete i tecnici che bucano le strade o aprono le fogne per far passare cavi, o oggi fasci di fibra ottica, stanno costruendo il livello 1.
 
-![La pila ISO/OSI con commenti in italiano](assets/images/Pila-osi.svg.png "La pila ISO/OSI con commenti in italiano")
-
 ![La comunicazione tra 2 punti della rete attraverso la pila ISO/OSI](assets/images/OSIModel.jpg "La comunicazione tra 2 punti della rete attraverso la pila ISO/OSI")
+
+### Corrispondenza
+
+| Livello | Maslow (8 liv.)  | ISO/OSI | CRT |
+| ------- | ---------------- | ----------- | ----------- |
+| 1       | FISIOLOGIA       | FISICO
+| 2       | SICUREZZA        | COLLEGAMENTO
+| 3       | APPARTENENZA     | RETE
+| 4       | STIMA            | TRASPORTO
+| 5       | CONOSCENZA       | SESSIONE
+| 6       | ESTETICA         | PRESENTAZIONE
+| 7       | AUTOREALIZZAZIONE| APPLICAZIONE
+| 8       | TRASCENDENZA     | APPLICAZIONE
+
+Ora, tra gli accostamenti forse il più forzato può sembrare quello tra SICUREZZA e COLLEGAMENTO (o DATA-LINK), ma ricordiamo che il SICUREZZA come bisogno non ha nulla a che fare con la SICUREZZA informatica. La **sicurezza come bisogno** è intesa come sicurezza fisica, di salute, di occupazione, morale, di proprietà. Per questo secondo me può trovare corrispondenza con il livello 2 che si occupa del collegamento tra 2 punti di una stessa rete. Mi fermo qui. Se avete osservazioni costruttive e argomentate potete porle tramite le [issues di progetto](https://github.com/feroda/1/issues).
