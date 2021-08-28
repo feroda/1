@@ -66,10 +66,6 @@ Ogni livello ha una propria responsabilità.
 
 Tra gli accostamenti forse il più forzato può sembrare quello tra SICUREZZA e COLLEGAMENTO (o DATA-LINK), ma rilevo che la SICUREZZA come bisogno non ha nulla a che fare con la SICUREZZA informatica. La sicurezza come bisogno è intesa come sicurezza fisica, di salute, di occupazione, morale, di proprietà. Per questo secondo me può trovare corrispondenza con il livello 2 che si occupa del collegamento tra 2 punti di una stessa rete. Mi fermo qui. Se avete osservazioni costruttive e argomentate potete porle tramite le [issues di progetto](https://github.com/feroda/1/issues).
 
-## I livelli del Centro di Rigenerazione Territoriale
-
-*Nota*: preferisco chiamarli "livelli" invece che "piani" per associare al progetto anche lo spirito di *gamification* connaturato.
-
 ## Come muoversi tra i livelli? Il modello Bell-LaPadula
 
 Per muoversi tra i livelli ho pensato che potremmo ispirarci al [modello Bell-LaPadula](https://it.wikipedia.org/wiki/Modello_Bell-LaPadula) a me arrivato tramite il corso di Sicurezza Informatica all'Università di Bologna sotto la responsabilità del [luminare prof. Ozalp Babaoglu](https://it.wikipedia.org/wiki/%C3%96zalp_Babao%C4%9Flu). 
@@ -97,3 +93,40 @@ Sia perché essendo appunto regole *software*, sono funzionali ad efficenza, eff
 Se parliamo di Amore invece a mio avviso ha delle caratteristiche, ma proprio ha necessità di esprimersi al di fuori delle regole, ma questo è un altro paragrafo e poi... visto che non sono titolato a parlarne e probabilmente ininfluente a livello di progettazione è inefficiente e inefficace approfondire ora, di conseguenza non bello e non #spicy ;-).
 
 Tornando a queste regole del modello Bell-LaPadula, hanno funzionato in vari contesti quindi per ora vorrei testare se possono funzionare per gestire l'accesso e la distribuzione dei messaggi all'interno dei livelli del CRT.
+
+## I livelli del Centro di Rigenerazione Territoriale in dettaglio
+
+*Nota*: preferisco chiamarli "livelli" invece che "piani" per associare al progetto anche lo spirito di *gamification* connaturato.
+
+### LIVELLO 1: ACCOGLIENZA
+
+TODO
+
+### LIVELLO 2: ASSISTENZA PROBLEMI QUOTIDIANI                           
+
+TODO
+
+### LIVELLO 3: BUONA ALIMENTAZIONE E PICCOLA DISTRIBUZIONE ORGANIZZATA  
+
+TODO
+
+### LIVELLO 4: PRATICHE EDUCATIVE, APPROCCI PEDAGOGICI, SPERIMENTAZIONE 
+
+TODO
+
+### LIVELLO 5: CONFRONTO LIBERO E ASSOCIAZIONI                          
+
+TODO
+
+### LIVELLO 6: ARTE, PERFORMERS, RELIGIONE E FILOSOFIA                  
+
+TODO
+
+### LIVELLO 7: SVILUPPO SOFTWARE E ORCHESTRAZIONE TERRITORIALE          
+
+TODO
+
+### LIVELLO 8: FA-VOLÀ: just my imagination                             
+
+TODO
+
