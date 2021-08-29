@@ -1,12 +1,13 @@
 # 1 miliardo per la libertà.
 
-Propongo un progetto OPEN che intende gestire la somma di 1 miliardo di euro per la libertà. Come salvadanaio di riferimento ho avuto la disponibilità da parte del consiglio direttivo del gruppo no-profit di Software Libero PDP di Fabriano https://pdp.linux.it . Ringrazio per la fiducia.
+Propongo un progetto OPEN che intende gestire la somma di 1 miliardo di euro per la libertà. Come salvadanaio di riferimento ho avuto la disponibilità da parte del consiglio direttivo del gruppo no-profit di Software Libero PDP di Fabriano https://pdp.linux.it che ringrazio per la fiducia.
+
 
 ## Gli ambiti di iniezione del denaro (*money injection*)
 
-Questo progetto funziona nella logica: "distribuisco denaro a realtà di mia conoscenza diretta in cui so che ci sono le competenze, la determinazione e le pratiche giuste, oltre alla logica open che prevede di mettersi in discussione in modo appunto aperto ogni qualvolta possibile, poiché conveniente".
+Questo progetto funziona nella logica: "distribuisco denaro a realtà di mia conoscenza diretta in cui so che ci sono le competenze, la determinazione e le pratiche giuste, oltre alla logica open che prevede di mettersi in discussione in modo aperto ogni qualvolta possibile, poiché conveniente".
 
-Tali referenti e realtà verranno pubblicati in questo spazio, ma non ora perché è necessaria la loro autorizzazione esplicita. Non so infatti se gradiscono questa fantasiosa o meno idea progettuale e se gradiscono esserne collegati.
+Tali referenti e realtà verranno pubblicati in questo spazio, ma non ora perché è necessaria la loro autorizzazione esplicita. Non posso infatti sapere se gradiscono questa fantasiosa o meno idea progettuale e se gradiscono esserne collegati.
 
 Nel frattempo scrivo di seguito gli ambiti di distribuzione del denaro, per ognuno di essi ho delle persone e delle realtà di riferimento cui viene assegnato il budget in logica di abbondanza. Loro lo sapranno gestire per lo scopo e anche per rimuovere propri ostacoli e sprechi interni che li rallentano. [Muda](https://it.wikipedia.org/wiki/Muda_(termine_giapponese))
 
