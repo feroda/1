@@ -181,8 +181,14 @@ Libertà.
 
 Poiché secondo il modello Bell-LaPadula proposto di attraversamento dei piani (no read up, no write down) chi può accedere a questo piano può accedere a tutti gli altri.
 
-### EXTRA
+### SPAZI EXTRA LIVELLI
 
 * **magazzino**
 * **zona di carico/scarico merci**
 * **giardino** ([delle delizie](https://archief.ntr.nl/tuinderlusten/en.html#)...?!? no, meglio un giardino "normale" direi... tipo Versailles ;-))
+
+## Storia di questa progettazione
+
+* Lettura consigliata: [CRT.pdf](assets/doc/crt.pdf). Un documento di Luca Ferroni scritto per la sensibilizzazione ai candidati regionali delle Marche alle elezioni 2020;
+* [Prima stesura del progetto 1 miliardo per la libertà](https://docs.google.com/document/d/1ROmx-WACbEoO3HDaL8ln9_0wVEZD0J_ZdPblumTsdew/edit#), prima stesura il 5 marzo 2021 e aggiornamenti fino al 3 agosto 2021;
+* [Fabriano città del Software Libero](https://docs.befair.it/doku.php?id=fabriano_citta_del_software_libero) di Luca Ferroni, [prima stesura il 23 ottobre 2012 e aggiornamenti fino al 16 novembre 2015](https://docs.befair.it/doku.php?id=fabriano_citta_del_software_libero&do=revisions);
