@@ -15,16 +15,7 @@ Gli ambiti di attuazione quinquennale e le rispettive cifre che ho ipotizzato in
 
 * **Infrastruttura a banda ultralarga e servizi per l'educazione in Italia**. 100,00 milioni
 * **Educazione**: portare avanti le migliori pratiche in Italia, oltre a sostenere e attivare percorsi in istituzioni educative preesistenti strategiche per il progetto. 150,00 milioni
-* **Centro di Rigenerazione Territoriale cittadino**. 80,00 milioni
-  * La struttura prevede diversi piani:
-    - **accettazione, accoglienza**, videowall con il monitoraggio della felicità cittadina, nursery;
-    - **assistenza** di primo livello all'utilizzo della tecnologia;
-    - **buona alimentazione** e sua cultura;
-    - condivisione e sperimentazione di **approcci pedagogici e pratiche educative**;
-    - meditazione, discussione, **confronto libero**, ospitalità alle associazioni del territorio, co-manutenzione;
-    - **sviluppo software**;
-    - **FA-VOLA**: questo è il piano di chi immagina nuovi sogni da realizzare.
-  * Sono previsti un **magazzino**, una zona di **carico/scarico merci** e un **giardino** ([delle delizie](https://archief.ntr.nl/tuinderlusten/en.html#)... o anche no ;-))
+* [Centro di Rigenerazione Territoriale](CRT_it.md): ipotizzati 80,00 milioni per una manutenzione quinquennale di spazi, attrezzature, personale, attività. È in realtà un modello che può essere replicato ad libitum;
 * **Performers**: implementazione del [progetto LOLA del GARR Consortium](https://www.garr.it/it/comunita/musica-e-arte/lola) in ogni città italiana per supportare concerti e spettacoli professionali remoti, o in presenza quando possibile. 50,00 milioni;
 * **IoT for Happiness**: un sistema di monitoraggio per la felicità. Autoregolato, spontaneo e facoltativo, ma conveniente e coinvolgente. 5,00 milioni;
 * **Acquisizioni**: acquisire aziende e tecnologie per liberarle. 70,00 milioni;

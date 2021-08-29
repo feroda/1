@@ -59,7 +59,7 @@ Ogni livello ha una propria responsabilità.
 | 2       | SICUREZZA        | COLLEGAMENTO  | ASSISTENZA PROBLEMI QUOTIDIANI                           |
 | 3       | APPARTENENZA     | RETE          | BUONA ALIMENTAZIONE E PICCOLA DISTRIBUZIONE ORGANIZZATA  |
 | 4       | STIMA            | TRASPORTO     | PRATICHE EDUCATIVE, APPROCCI PEDAGOGICI, SPERIMENTAZIONE |
-| 5       | CONOSCENZA       | SESSIONE      | CONFRONTO LIBERO E ASSOCIAZIONI                          |
+| 5       | CONOSCENZA       | SESSIONE      | CONFRONTO LIBERO, ASSOCIAZIONI E MEDITAZIONE             |
 | 6       | ESTETICA         | PRESENTAZIONE | ARTE, PERFORMERS, RELIGIONE E FILOSOFIA                  |
 | 7       | AUTOREALIZZAZIONE| APPLICAZIONE  | SVILUPPO SOFTWARE E ORCHESTRAZIONE TERRITORIALE          |
 | 8       | TRASCENDENZA     | APPLICAZIONE  | FA-VOLÀ: just my imagination                             |
@@ -98,35 +98,91 @@ Tornando a queste regole del modello Bell-LaPadula, hanno funzionato in vari con
 
 *Nota*: preferisco chiamarli "livelli" invece che "piani" per associare al progetto anche lo spirito di *gamification* connaturato.
 
+*Nota 2*: in ogni piano deve essere prevista un'aula per i corsi di formazione, spazi di sperimentazione in gruppo o individuale, una kanban board, spazi di condivisione, una libreria e se possibile una cucina.
+
 ### LIVELLO 1: ACCOGLIENZA
 
-TODO
+* videowall con il monitoraggio della felicità territoriale
+* registrazione
+* nursery
 
-### LIVELLO 2: ASSISTENZA PROBLEMI QUOTIDIANI                           
+questo è un livello di ampio respiro
 
-TODO
+### LIVELLO 2: ASSISTENZA PROBLEMI QUOTIDIANI
+
+questo è un livello più denso... in stile "bolgia infernale".
+
+- assistenza di primo livello all'utilizzo della tecnologia: oggi tutto, o quasi, si fa con una app, per questo è importante creare un luogo di assistenza di primo livello;
+- spunti di utilizzo consapevole della tecnologia;
+- centro informazioni per consentire di individuare facilmente chi o quale servizio in città può rispondere ad un bisogno specifico
+- aggregazione dei bisogni più diffusi
+
+in collaborazione con le scuole
 
 ### LIVELLO 3: BUONA ALIMENTAZIONE E PICCOLA DISTRIBUZIONE ORGANIZZATA  
 
-TODO
+- cultura della buona alimentazione;
+- spazio per riunioni dei Gruppi di Acquisto Solidale;
+- facilitazione di Gruppi di Acquisto Solidale;
+- esposizione dei prodotti di alimentazione territoriale e sostenibile con conoscenza dei produttori e delle aziende;
+- calendarizzazione degli ordini e organizzazione della distribuzione (PDO)
+- gestione del magazzino, carico/scarico merci
+- cucinare insieme
+
+riferimenti:
+
+* [metodo EduEat](https://edueat.it)
+* [10 colonne dell'economia solidale](https://docs.befair.it/doku.php?id=rees_softwarelibero_basi)
 
 ### LIVELLO 4: PRATICHE EDUCATIVE, APPROCCI PEDAGOGICI, SPERIMENTAZIONE 
 
-TODO
+- condivisione e sperimentazione di **approcci pedagogici e pratiche educative**;
 
-### LIVELLO 5: CONFRONTO LIBERO E ASSOCIAZIONI                          
+riferimenti:
 
-TODO
+- MakerSpace/HackerSpace
+- Pedagogia del Desiderio
+- Learning Creative Learning
+
+### LIVELLO 5: CONFRONTO LIBERO, ASSOCIAZIONI E MEDITAZIONE
+
+- meditazione, discussione, **confronto libero**, ospitalità alle associazioni del territorio, co-manutenzione;
 
 ### LIVELLO 6: ARTE, PERFORMERS, RELIGIONE E FILOSOFIA                  
 
-TODO
+il passaggio successivo del livello precedente, quando grazie alla competenza, la fiducia in se stessi, la tenacia e l'autocontrollo si esce dall'individuale e dalla propria zona di comfort di un gruppo.
+
+È il passaggio del singolo individuo nel bisogno di confrontare se stesso e i propri progetti con il mondo reale, per farne una professione. Ciò comporta il coraggio e il dialogo con il proprio sistema di credenze.
+
 
 ### LIVELLO 7: SVILUPPO SOFTWARE E ORCHESTRAZIONE TERRITORIALE          
 
-TODO
+andiamo verso l'astrazione. 
+"Alla ricerca degli assiomi universali" (Hilbert)
+
+- sviluppo software trasversale. Ad alta disseminazione: piattaforme di monitoraggio, GAS/PDO, interoperabilità, open data, CRM, ...;
+- definizione documenti [*Request For Comments*](https://it.wikipedia.org/wiki/Request_for_Comments) per la società;
+- individuazione di indicatori preesistenti (ad esempio [GNH](https://it.wikipedia.org/wiki/Felicit%C3%A0_interna_lorda)) ed eventuale derivazione di nuovi;
+- riciclo o elaborazione di un sistema reputazionale sociale;
 
 ### LIVELLO 8: FA-VOLÀ: just my imagination                             
 
-TODO
+"Ri" -> tu sei la regola (v. [Shu Ha Ri](https://martinfowler.com/bliki/ShuHaRi.html))
 
+in questo piano ci arriva chi cammina (o è tornato come un bambino a camminare) sulle "dannate nuvole", immagina, esprime i proprio sogni e in più di un bambino ha raggiunto la competenza necessaria per distinguere quali possono realizzare nuovi scenari, con quali benefici, con quali tempi e quali risorse necessarie, per avere la capacità di determinarne la priorità;
+
+quali possono essere comprensibili per tutti? quali rispondono ad un bisogno esplicito o implicito della propria famiglia, il proprio territorio? per quali vale la pena di lottare? vale la pena di lottare?
+
+Qui si fa esperienza della Vita, dell'Essere, come fiume che scorre nella sua realtà, nella sua praticità, non solo nella sua teoria.
+
+È il livello raggiunto da John Lennon o da Madre Teresa di Calcutta, ma anche da tanti altri diversi da loro, ma come loro, nella loro semplicità, quotidianità, accettazione e partecipazione.
+
+Libertà.
+
+Poiché secondo il modello Bell-LaPadula proposto di attraversamento dei piani (no read up, no write down) chi può accedere a questo piano può accedere a tutti gli altri.
+
+### EXTRA
+
+* **magazzino**
+* **zona di carico/scarico merci**
+* **giardino** ([delle delizie](https://archief.ntr.nl/tuinderlusten/en.html#)...?!? no, meglio un giardino "normale" direi... tipo Versailles ;-))
