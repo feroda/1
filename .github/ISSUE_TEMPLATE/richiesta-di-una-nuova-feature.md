@@ -1,7 +1,7 @@
 ---
 name: Richiesta di una nuova FEATURE
 about: Suggerisci una funzionalità per il progetto
-title: "[FEATURE]"
+title: "[FEATURE] <titolo della funnzionalità richiesta>"
 labels: ''
 assignees: ''
 

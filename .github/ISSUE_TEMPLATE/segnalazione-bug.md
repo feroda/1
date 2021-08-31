@@ -1,7 +1,7 @@
 ---
 name: Segnalazione BUG
 about: Segnala un errore per consentirci di migliorare
-title: "[BUG]"
+title: "[BUG] <oggetto dell'errore>"
 labels: ''
 assignees: ''
 

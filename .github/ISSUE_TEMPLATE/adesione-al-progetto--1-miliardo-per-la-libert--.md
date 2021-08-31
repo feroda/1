@@ -1,7 +1,7 @@
 ---
 name: ADESIONE al progetto "1 miliardo per la libertà"
 about: Segnala la tua adesione al progetto e le modalità
-title: "[ADESIONE]"
+title: "[ADESIONE] <inserire nome soggetto/progetto per cui intendi aderire>"
 labels: ''
 assignees: feroda
 
@@ -38,4 +38,7 @@ Il sistema impostato si basa sulla conoscenza e la fiducia, quindi segna una del
 - [ ] conoscenza diretta di Luca Ferroni
 - [ ] soggetto/progetto proposto nella issue # ... (fai riferimento alla issue di tipo [PROPOSTA] relativa)
 - [ ] sono in contatto con ... già collaboratore del progetto
-- [ ] non conosco nessuno al momento, Resto a disposizione, sono contattabile via .... all'indirizzo/numero ...
+- [ ] non conosco nessuno al momento,
+
+**Riferimenti**
+Abbiamo bisogno di un riferimento email o telefonico che possiamo estrapolare anche dai link che ci hai inviato per poterci accertare che la richiesta sia pervenuta effettivamente da una persona che detiene i diritti di parlare per conto del soggetto/progetto coinvolto.

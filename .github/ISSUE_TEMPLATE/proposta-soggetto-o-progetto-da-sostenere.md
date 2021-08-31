@@ -2,7 +2,7 @@
 name: PROPOSTA soggetto o progetto da sostenere
 about: Proponi un'organizzazione/progetto/attività/individuo da sostenere con i fondi
   raccolti
-title: "[SOGGETTO/PROGETTO]"
+title: "[SOGGETTO/PROGETTO] <inserire nome soggetto/progetto che intendi segnalare>"
 labels: ''
 assignees: ''
 
