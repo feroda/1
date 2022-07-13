@@ -65,23 +65,55 @@ A Flavio interessa inoltre capire nel territorio il sentimento rispetto agli ste
 
 ## HAPPY IOT UI per la visualizzazione
 
+[TODO]: inserire una mappa con i cuori di diverse dimensioni e colori
+
+In alto la possibilità di filtrare per una o più categorie e uno o più gruppi. Il filtro sarà applicato contestualmente al territorio visualizzato.
+
+In alto a destra le informazioni dell'utente o del DEVICE con i PUNTI/BADGE associati.
+
+A scomparsa le news/i tasks/le challenge relative/i ai CANALI e i TERRITORI. 
+
 ## L'utente vede e intende partecipare (PROFILI)
 
 La registrazione alla piattaforma riveste un aspetto di fondamentale importanza considerato che la felicità non può prescindere dalla libertà di decisione da parte dell'individuo su come partecipare al monitoraggio. 
 
 A seconda delle PERSONAS definite sopra, si ipotizzano diverse modalità di registrazione, cui corrispondono differenti profili di utenza.
 
+Chi vorrà abilitare un utente potrà farlo con SPID, chi vorrà abilitare solamente un DEVICE, senza associarlo alla propria persona, dovrà comunque associarvi uno SMARTPHONE per la conferma.
+
+### La registrazione di Flavio
+
+Flavio è un imprenditore che vuole registrare la sua azienda come GRUPPO associando ad essa uno o più CANALI perciò si registrerà con un UTENTE, vi assocerà uno SMARTPHONE e opzionalmente uno o più DEVICE.
+
+Con il suo UTENTE potrà creare il GRUPPO azienda.
+
+Perciò avrà un profilo di GESTORE_DI_GRUPPO (permesso che probabilmente avranno tutti, ma non tutti useranno)
+
+### La registrazione di Giovanna
+
+Giovanna è una dipendente che vuole partecipare a livello di TERRITORIO e di azienda (GRUPPO).
+
+Per questo anch'essa dovrà disporre di un UTENTE, con associato uno SMARTPHONE e se lo vorrà uno o più DEVICE
+
+### La registrazione di Orlando
+
+In un primo momento Orlando non vuole far altro che contribuire al territorio perciò recupererà un DEVICE o se lo autocostruirà. Poi lo registerà nel CLOUD e vi potrà associare il proprio SMARTPHONE
 
 ## HAPPY IOT CLOUD per l'aggregazione
 
+Il sistema CLOUD è ciò che sta dietro per cui è il meno interessante ai fini di questo documento.
+
+Il suo ruolo è quello di ricevere le segnalazioni di felicità e di smistare MESSAGGI (news, tasks, challenges) nei territori e nelle categorie di interesse.
+
+Ciò implica il trattamento di Big Data e l'interazione con un sistema di AI per la riconducibilità dei MESSAGGI ai CANALI e ai TERRITORI.
 
 ## HAPPY IOT DEVICE per la segnalazione
 
 Abbiamo pensato che per monitorare questa sensazione in modo semplice sia sufficiente un dispositivo con 3 pulsanti da premere la sera dopo una giornata vissuta:
 
-- Sono meno felice di stamattina: -1 [ROSSO]
-- Sono felice allo stesso modo: 0 [GIALLO]
-- Sono più felice di stamattina: +1 [VERDE]
+- Sono meno felice di stamattina: -1 ![](https://via.placeholder.com/20x20/ee0000/000000?text=+)
+- Sono felice allo stesso modo: 0 ![](https://via.placeholder.com/20x20/eeee00/000000?text=+)
+- Sono più felice di stamattina: +1 ![](https://via.placeholder.com/20x20/7cfc00/000000?text=+)
 
 Non si ritiene necessario un indicatore assoluto in percentuale per esprimere un valore quantitativo. Almeno inizialmente.
 
@@ -100,6 +132,8 @@ Il dispositivo può anche essere autocostruito e sarebbe un ottimo esercizio da 
 - GPS
 
 ### Protocolli/API:
+
+Anche questo è poco interessante, da rivedere. TODO
 
 Vengono salvati: timestamp, valore, posizione GSM, token di autenticazione
 
