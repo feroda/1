@@ -14,23 +14,70 @@ non potremo mai condividere pienamente le sensazioni che proviamo esternamente.
 
 "Per quanto mi identifichi col battito di un altro, sarà sempre attraverso questo cuore" (cit. Jovanotti: "Mezzogiorno")
 
-## Cosa serve a questo scopo?
+## PERSONAS
 
-- Un dispositivo (**DEVICE**) assegnato all'utente per inviare il suo livello di felicità o una app (**APP**) che può essere:
+Procediamo ad un'analisi *customer centric* della piattaforma definendo alcune PERSONAS.
+
+### Orlando: il 68ino sindacalista
+
+Ha sempre speso il suo impegno con serietà e orientamento etico per i territori.
+
+Usa il sistema per contribuire alla realizzazione di un indicatore territoriale. Inizialmente preferisce non perderci troppo tempo, ma pian piano si interessa maggiormente ai dettagli tecnici dato che per anni ha risolto problemi di formattazione di PC agli amici.
+
+### Roberta: la funzionaria curiosa
+Si interessa della situazione cittadina.
+
+Usa il sistema per capire come è felicità riguardo ai luoghi e ai canali.
+
+### Mariola: la domestica girandolona
+
+Usa il sistema per capire come è felicità riguardo ai luoghi e ai canali. Le interessano le persone
+
+### Matteo: il neodiplomato in cerca di avventure
+
+A Matteo interessa ricevere segnalazioni di attività in base alle proprie segnalazioni di felicità sui CANALI che segue.
+
+### Valerio: lo studente hacker
+
+A Valerio interessa particolarmente la piattaforma open perché vuole autocostruirsi il dispositivo di segnalazione della felicità e capire come funziona il protocollo di comunicazione per portarlo al limite delle sue potenzialità ed eventualmente scoprire qualche falla di sicurezza
+
+### Giovanna: la dipendente motivata
+
+A Giovanna interessa esprimere la propria felicità sui CANALI aziendali che il suo capo ha attivato per la propria azienda (**GRUPPO**)
+
+### Flavio: l'imprenditore rinomato
+
+A Flavio interessa la possibilità di definire alcuni CANALI per la propria azienda (GRUPPO) in modo da capire il sentimento dei propri dipendenti rispetto ad essi.
+
+A Flavio interessa inoltre capire nel territorio il sentimento rispetto agli stessi CANALI siano essi in altri GRUPPI oppure senza gruppo (utenti finali).
+
+## Cosa serve per raggiungere questo scopo?
+
+- Un dispositivo (**DEVICE**) assegnato all'utente per inviare il suo livello di felicità o una app (**APP**)
 - Una piattaforma (**CLOUD**) che aggreghi i dati provenienti dal DEVICE e mostri gli indicatori di felicità attraverso:
   - una mappa per territori
+  - una mappa per gruppi
   - una mappa per categorie (**CANALI**) [non tutti gli utenti valutano canali specifici]
   - una mappa per relazioni tra i CANALI [per le valutazioni ricevute su canali]
   - [opzionale] una mappa per tipologie dei soggetti che partecipano al monitoraggio
-- Un protocollo di comunicazione tra i DEVICE e il CLOUD
+- Un'interfaccia grafica (**UI**) che consenta una piacevole esperienza utente (**UX**) all'utente
+- Un protocollo di comunicazione DEVICE/CLOUD e UI/CLOUD (**API_CLOUD**)
 
-Perché l'ultimo punto CLOUD è opzionale?
+## HAPPY IOT UI per la visualizzazione
 
-Si lascia opzionale la possibilità di registrarsi al sistema e quindi diventare un utente non anonimo. Questo perché la felicità non può prescindere dalla libertà totale di decisione dell'individuo che potrà decidere via via il suo livello di accesso.
+## L'utente vede e intende partecipare (PROFILI)
 
-## Il DEVICE: un dispositivo di monitoraggio della felicità
+La registrazione alla piattaforma riveste un aspetto di fondamentale importanza considerato che la felicità non può prescindere dalla libertà di decisione da parte dell'individuo su come partecipare al monitoraggio. 
 
-Se fossimo interessati a monitorare questa sensazione nel modo più semplice possibile pensiamo basterebbe un dispositivo casalingo con 3 pulsanti da premere la sera dopo una giornata vissuta:
+A seconda delle PERSONAS definite sopra, si ipotizzano diverse modalità di registrazione, cui corrispondono differenti profili di utenza.
+
+
+## HAPPY IOT CLOUD per l'aggregazione
+
+
+## HAPPY IOT DEVICE per la segnalazione
+
+Abbiamo pensato che per monitorare questa sensazione in modo semplice sia sufficiente un dispositivo con 3 pulsanti da premere la sera dopo una giornata vissuta:
 
 - Sono meno felice di stamattina: -1 [ROSSO]
 - Sono felice allo stesso modo: 0 [GIALLO]
