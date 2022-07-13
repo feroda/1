@@ -1,6 +1,6 @@
 # 1 miliardo per la libertà.
 
-Propongo un progetto OPEN che intende gestire la somma di 1 miliardo di euro per la libertà. Come salvadanaio di riferimento ho avuto la disponibilità da parte del consiglio direttivo del gruppo no-profit di Software Libero PDP di Fabriano https://pdp.linux.it che ringrazio per la fiducia.
+Propongo un progetto open che intende gestire la somma di 1 miliardo di euro per la libertà. Come salvadanaio di riferimento ho avuto la disponibilità da parte del consiglio direttivo del gruppo no-profit di Software Libero PDP di Fabriano https://pdp.linux.it che ringrazio per la fiducia.
 
 
 ## Gli ambiti di iniezione del denaro (*money injection*)
