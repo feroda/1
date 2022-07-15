@@ -31,11 +31,11 @@ Usa il sistema per capire come è felicità riguardo ai luoghi e ai canali.
 
 ### Mariola: la domestica girandolona
 
-Usa il sistema per capire come è felicità riguardo ai luoghi e ai canali. Le interessano le persone
+Usa il sistema per capire come è felicità riguardo ai luoghi e ai canali. E' interessata alle persone e alla possibilità di interagine (reactions)
 
 ### Matteo: il neodiplomato in cerca di avventure
 
-A Matteo interessa ricevere segnalazioni di attività in base alle proprie segnalazioni di felicità sui CANALI che segue.
+A Matteo interessa ricevere MESSAGGI di news/task/challenge in base alle proprie segnalazioni di felicità sui CANALI che segue.
 
 ### Valerio: lo studente hacker
 
@@ -54,13 +54,14 @@ A Flavio interessa inoltre capire nel territorio il sentimento rispetto agli ste
 ## Cosa serve per raggiungere questo scopo?
 
 - Un dispositivo (**DEVICE**) assegnato all'utente per inviare il suo livello di felicità o una app (**APP**)
-- Una piattaforma (**CLOUD**) che aggreghi i dati provenienti dal DEVICE e mostri gli indicatori di felicità attraverso:
+- Una piattaforma (**CLOUD**) che aggreghi i dati provenienti dal DEVICE 
+- Un'interfaccia grafica (**UI**) che consenta una piacevole esperienza utente (**UX**) all'utente e mostri gli indicatori di felicità attraverso:
   - una mappa per territori
   - una mappa per gruppi
   - una mappa per categorie (**CANALI**) [non tutti gli utenti valutano canali specifici]
   - una mappa per relazioni tra i CANALI [per le valutazioni ricevute su canali]
   - [opzionale] una mappa per tipologie dei soggetti che partecipano al monitoraggio
-- Un'interfaccia grafica (**UI**) che consenta una piacevole esperienza utente (**UX**) all'utente
+
 - Un protocollo di comunicazione DEVICE/CLOUD e UI/CLOUD (**API_CLOUD**)
 
 ## HAPPY IOT UI per la visualizzazione
@@ -71,7 +72,7 @@ In alto la possibilità di filtrare per una o più categorie e uno o più gruppi
 
 In alto a destra le informazioni dell'utente o del DEVICE con i PUNTI/BADGE associati.
 
-A scomparsa le news/i tasks/le challenge relative/i ai CANALI e i TERRITORI. 
+A scomparsa le news/i tasks/le challenge relative/i ai CANALI e i TERRITORI (feed chat Telegram) 
 
 ## L'utente vede e intende partecipare (PROFILI)
 
