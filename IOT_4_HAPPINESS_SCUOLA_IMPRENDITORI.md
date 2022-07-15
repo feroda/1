@@ -1,4 +1,4 @@
-# IOT 4 Happiness @ Scuole Imprenditori & Young
+# IOT 4 Happiness @ Scuole Imprenditori
 
 Si intende realizzare un proof-of-concept di IOT 4 Happiness per la **Scuola imprenditori**.
 
