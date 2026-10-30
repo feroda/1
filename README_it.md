@@ -58,11 +58,11 @@ Ragiono come in un gran bel film e rivolgo un invito a tutti gli uomini e le don
 
 Non si tratta infatti solo di mera distribuzione dei fondi, ma anche di implementazione di [pratiche Agili](https://agilemanifesto.org/iso/it/manifesto.html) e di Lean Manufacturing volte a sperimentare concretamente un’evoluzione del [sistema economico](https://it.wikipedia.org/wiki/Economia) basato sulla [felicità](https://it.wikipedia.org/wiki/Felicit%C3%A0_interna_lorda), sul [lavoro](https://it.wikipedia.org/wiki/Lavoro), e sulla valorizzazione delle persone, del tempo, della cultura e dell’arte. Nel fare ciò si riutilizzeranno spazi, risorse e tecnologie, implementando ciò che si riterrà necessario.
 
-Il progetto intende sostenere una visione della società allegra e positiva, spiritosa, ma mai banale. Intende inoltre valorizzare, ringraziare ed aggregare chi già porta questi valori oggi in questa società che sembra disperata, ma vi assicuro che negli occhi dei giovani non lo è. Anzi è semplice. Io in mezzo ai giovani ci sto, e li vedo i loro occhi.
+Il progetto intende sostenere una visione della società allegra e positiva, spiritosa, ma mai banale. Intende valorizzare, ringraziare ed aggregare chi già porta questi valori oggi in questa società che sembra disperata, ma vi assicuro che negli occhi dei giovani non lo è. Anzi è semplice. Io in mezzo ai giovani ci sto, e li vedo i loro occhi.
 
 Diciamo che se io fossi un *policy maker* europeo destinerei 1 miliardo degli 800 previsti dal [programma Next Generation EU (volgarmente noto come Recovery Plan)](https://ec.europa.eu/info/strategy/recovery-plan-europe_it) a Luca Ferroni ;-) per vedere se questa sperimentazione può effettivamente costituire un modello evolutivo per l'economia e l'educazione.
 
-E per quanto mi sarà possibile, vorrei che glielo facessimo sapere a queste personce che c'è qualcuno che pensa fuori dagli schemi c'è. Gli hackers della società ci sono e hanno fatto molto per aiutare questo mondo ad essere facile e bello. Per noi lo è. Di solito lo è quando ci lasciate fare a modo nostro per aiutarvi.
+E per quanto mi sarà possibile, vorrei che facessimo sapere a queste persone che c'è qualcuno che pensa fuori dagli schemi. Gli [HACKERS DELLA SOCIETÀ](https://it.wikipedia.org/wiki/Hacker) ci sono e hanno fatto molto per aiutare questo mondo ad essere facile e bello. Per noi è un aiuto continuo verso il bello. Di solito lo è quando ci lasciate fare a modo nostro per aiutarvi.
 
 [IoRestoACasa.work](https://iorestoacasa.work) sarà solo un granello, ma [è stato messo in piedi in 3 giorni](https://iorestoacasa.work/rassegna-stampa.html) e dopo 2 settimane avevamo server distribuiti in tutta Italia, con Software Libero, per 200GB di banda e una community di 70 tecnici specializzati. Ora [la chat Telegram conta 401 membri](https://t.me/iorestoacasawork), non siamo più solo tecnici specializzati, ma si sono unite tante belle persone. Motivate verso la libertà.
 
@@ -74,9 +74,9 @@ Perché in 18 anni il mondo, da che abbiamo fondato il PDP Free Software User Gr
 
 Sicuramente non si concretizzerà esattamente come io lo immagino ora, ma anche solo se avrò fatto lo 0,01% di quanto scriverò qui lo avrò fatto perché lo ritenevo giusto, e come si suol dire nei migliori film, per i nostri figli, e i figli dei nostri figli.
 
-Sinceramente in cuor mio credo che questo 0,01% l'ho già fatto perché il progetto è una prosecuzione del mio percorso, una sua evoluzione, maggior fiato alle attività da me iniziate, e a volte non finite, ma mai abbandonate. Nel cuore, nella testa, nelle gambe. 
+Sinceramente in cuor mio credo che questo 0,01% l'ho già fatto perché il progetto è una prosecuzione del mio percorso, una sua evoluzione, maggior fiato alle attività da me iniziate, e a volte non finite, ma mai abbandonate. Nel cuore (sentimento), nella testa (pensiero), nelle gambe (volontà). 
 
-Sono [Luca Ferroni](https://www.lucaferroni.it) e ho già fatto tanti danni, tante cose appese che possono continuare a vivere prendendo una forma sempre più bella se le persone che ne sono parte le ritengono utili e degne. O di essere chiuse. In ogni caso come belle storie meritano un finale.
+Sono [Luca Ferroni](https://www.lucaferroni.it), aka Lucafero, aka feroda, e ho già fatto tanti danni, tante cose appese che possono continuare a vivere prendendo una forma sempre più bella se le persone che ne sono parte le ritengono utili e degne. O di essere chiuse. In ogni caso come belle storie meritano un finale.
 
 Il progetto è rilasciato con licenza di Software Libero GNU AGPLv3 per opportunità del portale [GitHub.com](https://github.com) su cui è al momento pubblicato. Si tratta di un progetto per lo più documentale pertanto si aggiunge una ulteriore licenza Creative Commons Attribution 4.0 internazionale: https://creativecommons.org/licenses/by/4.0/deed.it 
 
