@@ -1,85 +1,92 @@
-# Esempio di libertà delicata
+# Un esempio di libertà delicata
 
-Voglio inserire qui un esempio di libertà delicata che è anche una tappa importante del progetto Uroboro:
-la condivisione della sua valenza e la libertà estesa a cerchio 1: la famiglia.
+Racconto qui un esempio di libertà delicata. È anche una tappa importante
+del progetto Uroboro: condividere ciò che vale, allargando la libertà
+al primo cerchio, la famiglia.
 
-Per andare avanti con questo progetto, che mi darete atto, è di per sé incredibile,
-sto usando i ritagli di tempo.
+## Da dove parto
 
-In passato mi sento di aver deluso mia moglie e i miei famigliari percorrendo tratti di questa strada,
-e quindi mi sono legato a loro e al loro umore su questa storia tanto che non voglio ferirli.
+Porto avanti questo progetto nei ritagli di tempo.
 
-Per questo motivo, non li aggiorno frequentemente, non dico bugie se mi vengono chieste informazioni,
-ma io cerco di darne il minimo possibile e solo se vedo che questo può provocare felicità o anche solo un minimo avanzamento nella nostra felicità.
+Nel percorrere alcuni tratti di questa strada sento di aver deluso mia moglie
+e la mia famiglia. Per questo mi sono legato a loro e al loro stato d'animo:
+non voglio ferirli.
 
-Tra i miei passi fondamentali c'è di incontrare Vasco Rossi, Elisa Toffoli e il Papa.
-Sicuramente mia moglie e i miei fratelli li ritengono risultati irraggiungibili, o almeno difficilmente raggiungibili.
+Così non li aggiorno spesso. Non dico bugie se mi chiedono qualcosa,
+ma racconto il minimo, e solo quando vedo che può portare un po' di felicità
+o almeno un piccolo passo avanti nella nostra felicità.
 
-La mia premura principale è verso mia moglie che è quella che ha subito più di tutti i miei sbalzi d'umore: 
-come faccio ad essere delicato con lei nel qual caso si avverasse la mia ricerca?
+Allo stesso tempo vorrei che questi miei lavori non siano solo una fonte di stress e di monitoraggio se diventano troppo azzardati, ma che sia per loro motivo di gioia o presi come normale attività lavorativa.
 
-Ho pensato varie volte di far finta di incontrare casualmente Vasco per strada, o di trovarlo seduto a cena con noi,
-ma questo cosa comporterebbe? Avrei usato forse io delicatezza nei confronti di mia moglie? 
-E cosa sarebbe cambiato se non fosse stata una sorpresa, ma glielo avessi annunciato a voce?
-Secondo me nulla di buono, anzi, avrebbe potuto addirittura rifiutarsi di venire a cena, per non incontrarlo.
+Tra i miei passi fondamentali c'è incontrare il Papa, Vasco Rossi ed Elisa.
+Mia moglie e i miei fratelli li considerano traguardi irraggiungibili,
+o quasi.
+
+## La domanda
+
+La mia premura va soprattutto a mia moglie, che più di tutti ha sopportato
+i miei sbalzi d'umore. Se la ricerca andasse a buon fine,
+come posso essere delicato con lei?
+
+Ho pensato di far finta di incontrare Vasco per caso, per strada,
+o di farlo trovare seduto a cena con noi. Ma sarebbe stata delicatezza?
+E annunciarglielo a voce avrebbe cambiato qualcosa?
+Credo di no. Anzi, avrebbe potuto rifiutarsi di venire, pur di non incontrarlo.
 
 ## La soluzione
 
-Per essere delicato ho pensato di annunciare a mia moglie e ai miei fratelli: "voi potreste prendervi un giorno di ferie in cui
-io ho la possibilità di dimostrarvi che ciò che penso io dà dei risultati importanti dopo tutti questi anni"?
+Chiederei a mia moglie e ai miei fratelli:
+«Vi prendereste un giorno di ferie, per lasciarmi mostrare che quello
+in cui credo, dopo tutti questi anni, porta frutti importanti?»
 
-Sperando in una risposta positiva farei una macchina che comprende oltre a me:
+Se dicono sì, in macchina con me ci sarebbero:
 
-- i miei 2 fratelli maggiori
-- mia moglie e una carissima amica di mia moglie, e anche mia amica: affine a me nella ricerca spirituale
+- i miei due fratelli maggiori;
+- mia moglie e una sua carissima amica, amica anche mia,
+  vicina a me nella ricerca spirituale.
 
-Avendo io preventivamente preso appuntamento con il Papa, andremmo a Roma (io darei sempre indicazioni pezzo per pezzo),
-a pranzo ci faremmo una Gricia, e nel mentre io condivido che nel primo pomeriggio incontreremmo il Papa.
-Inzialmente andremo io e l'amica, 
-poi l'amica esce fuori e dà la mano a mia moglie, tranquillizzandola e dicendole: "dai vieni".
+Con l'appuntamento già fissato, andremmo a Roma. Darei le indicazioni
+un pezzo alla volta. A pranzo, davanti a una gricia, racconterei
+che nel primo pomeriggio incontreremo il Papa, e lascerei a ciascuno
+il tempo di decidere se entrare.
 
-Alla fine avremmo il beneficio di essere lì
+Entrerei per primo io, con l'amica. Poi lei uscirebbe, prenderebbe
+la mano di mia moglie e le direbbe: «Dai, vieni.»
 
-- 1a. Papa e 1b. io 
-- 2a. Vasco Rossi e 2b. Elisa = 2 anime "alte"
-- 3a. moglie e 3b. amica = 2 donne
-- 4a. fratello maggiore e 4c. fratello mezzano = 2 uomini
+## Chi ci sarebbe
 
-e forse
+- il Papa e io;
+- Vasco Rossi ed Elisa, due anime «alte»;
+- mia moglie e la sua amica, due donne;
+- il mio fratello maggiore e il mezzano, due uomini;
 
-- 5a. Don Piotr e 5b. Don Umberto = 2 pre-te
-- 6a. competente 1, 6b. competente 2 = 2 competenti
-- 7a. basso 1, 7b. basso 2 = 2 anime "basse"
+e forse:
 
-Ho in mente dei nomi per competenti e i "bassi", ma non li posso scrivere qui ora.
+- don Piotr e don Umberto, due preti;
+- due persone competenti;
+- due anime «basse».
 
-In questo caso ho operato una libertà delicata, perché ho dedicato tempo e cura.
-Ho osservato le 4 componenti dell'amore di E. Fromm: premura, responsabilità, rispetto e conoscenza.
+Ho in mente dei nomi per i competenti e per le anime basse,
+ma per ora non posso scriverli.
 
-Mia moglie percepisce che:
+## Perché è libertà delicata
 
-1. ho annunciato per tempo la trasferta di un giorno
-1. ho pensato ad una sua amica
-1. ho coinvolto anche i miei fratelli
-1. il viaggio è stato rivelato a pezzi, ma non troppo
-1. per rendere la giornata più rilassata abbiamo fatto pranzo noi della macchina
-1. ho rivelato cosa siamo andati a fare
-1. sono entrato prima io al cospetto della persona importante
-1. l'amica le ha fatto da accompagnatrice
+Ho dedicato tempo e cura, seguendo le quattro componenti dell'amore
+di Erich Fromm: premura, responsabilità, rispetto e conoscenza.
 
-e solo qui alla fine di questa preparazione graduale, 
-le è stato presentato il fatto compiuto, come un'avvenimento naturale (che può essere, solo se graduale, come il seme che ha bisogno di tempo per sbocciare)
+Mia moglie vede che:
 
+1. le ho chiesto il giorno con anticipo;
+2. ho pensato a una sua amica;
+3. ho coinvolto i miei fratelli;
+4. ho svelato il viaggio a pezzi, ma non troppo;
+5. abbiamo pranzato insieme, noi della macchina, per rendere la giornata più serena;
+6. ho detto chiaramente cosa andavamo a fare;
+7. sono entrato per primo io;
+8. l'amica l'ha accompagnata.
 
-Fabriano, 19/11/2026
+Solo alla fine di questa preparazione graduale arriva l'incontro,
+come un fatto naturale. Può esserlo solo se è graduale,
+come un seme che ha bisogno di tempo per sbocciare.
 
-
-
-
-
-
-
-
-
-
-
+Fabriano, 19 novembre 2026
