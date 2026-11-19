@@ -74,16 +74,9 @@ ma per ora non posso scriverli.
 Ho dedicato tempo e cura, seguendo le quattro componenti dell'amore
 di Erich Fromm: premura, responsabilità, rispetto e conoscenza.
 
-Mia moglie vede che:
-
-1. le ho chiesto il giorno con anticipo;
-2. ho pensato a una sua amica;
-3. ho coinvolto i miei fratelli;
-4. ho svelato il viaggio a pezzi, ma non troppo;
-5. abbiamo pranzato insieme, noi della macchina, per rendere la giornata più serena;
-6. ho detto chiaramente cosa andavamo a fare;
-7. sono entrato per primo io;
-8. l'amica l'ha accompagnata.
+**Mia moglie vede/percepisce che: le ho chiesto il giorno con anticipo; ho pensato a una sua amica; ho coinvolto i miei fratelli;
+ho svelato il viaggio a pezzi, ma non troppo; abbiamo pranzato insieme, noi della macchina, per rendere la giornata più serena;
+ho detto chiaramente cosa andavamo a fare; sono entrato per primo io; l'amica l'ha accompagnata**.
 
 Solo alla fine di questa preparazione graduale arriva l'incontro,
 come un fatto naturale. Può esserlo solo se è graduale,
