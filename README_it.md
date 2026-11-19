@@ -9,7 +9,7 @@ Questo progetto funziona nella logica: "distribuisco denaro a realtà di mia con
 
 Tali referenti e realtà verranno pubblicati in questo spazio, ma non ora perché è necessaria la loro autorizzazione esplicita. Non posso infatti sapere se gradiscono questa fantasiosa o meno idea progettuale e se gradiscono esserne collegati.
 
-Nel frattempo scrivo di seguito gli ambiti di distribuzione del denaro, per ognuno di essi ho delle persone e delle realtà di riferimento cui viene assegnato il budget in logica di abbondanza. Loro lo sapranno gestire per lo scopo e anche per rimuovere propri ostacoli e sprechi interni che li rallentano. [Muda](https://it.wikipedia.org/wiki/Muda_(termine_giapponese))
+Nel frattempo scrivo di seguito gli ambiti di distribuzione del denaro, per ognuno di essi ho delle persone e delle realtà di riferimento cui viene assegnato il budget in logica di abbondanza. Loro lo sapranno gestire per lo scopo e anche per rimuovere propri ostacoli e sprechi interni che li rallentano. [Muda](https://it.wikipedia.org/wiki/Muda_(termine_giapponese\))
 
 Gli ambiti di attuazione quinquennale e le rispettive cifre che ho ipotizzato in logica di abbondanza sono:
 
